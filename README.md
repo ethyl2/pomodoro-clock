@@ -1,6 +1,10 @@
 # Pomodoro Clock
 
-I originally created this project in codepen here: https://codepen.io/ethyl2/pen/wZGJLY, but wanted to create a deployed site.
+I originally created this project in codepen, found here: https://codepen.io/ethyl2/pen/wZGJLY, but wanted to create a deployed site.
+
+The deployed site is found here: https://pomodoro-tomato.netlify.com/
+
+--------------------------------------------
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
