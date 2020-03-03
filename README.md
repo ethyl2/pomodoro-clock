@@ -4,6 +4,8 @@ I originally created this project in codepen, found here: https://codepen.io/eth
 
 The deployed site is found here: https://pomodoro-tomato.netlify.com/
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e5c262ef-ce40-4e7a-9c7a-64c98aea0550/deploy-status)](https://app.netlify.com/sites/pomodoro-tomato/deploys)
+
 --------------------------------------------
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
